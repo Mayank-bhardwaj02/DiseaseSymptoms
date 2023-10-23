@@ -1,0 +1,11 @@
+Disease,Fever,Chills,Headache,Joint Pain,Nausea,Vomiting,Cough,Fatigue,Chest Pain,Short Breath,Sweating,Thirst,Hunger,Frequent Urine,Blurred Vision,Yellow Eyes,Itchy Skin,Heart Rate,Age,Weight,Possibility
+Hepatitis,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,70-80,20-50,50-70,100
+Chickenpox,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,70-80,5-20,30-50,98
+Measles,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,70-80,5-20,30-50,97
+Pneumonia,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,90-100,All,All,89
+Jaundice,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,70-80,20-50,50-70,100
+Arthritis,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,70-80,40-70,60-90,76
+Bronchitis,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,80-90,20-50,50-70,74
+Peptic Ulcer,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,70-80,30-60,60-80,81
+Kidney Stones,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,70-80,30-60,60-80,79
+Heart Disease,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,90-110,40-70,70-100,95
